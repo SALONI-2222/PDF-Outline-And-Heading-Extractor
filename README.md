@@ -82,9 +82,3 @@ python main.py
   ]
 }
 ```
-
----
-
-## 📬 Contact
-
-For issues or suggestions, feel free to raise an issue or open a pull request.
