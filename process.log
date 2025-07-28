@@ -1,0 +1,664 @@
+[2025-07-27 00:55:33] 🚀 Starting PDF outline extraction process...
+[2025-07-27 00:55:33] 📄 Processing PDF: input\6874ef2e50a4a_adobe_india_hackathon_challenge_doc.pdf
+[2025-07-27 00:55:33] 🔍 Scanning text across pages to find repeated lines...
+[2025-07-27 00:55:33] 🚫 Found 1 repeated footer/header lines to ignore.
+[2025-07-27 00:55:33] 🔠 Font sizes sorted and mapped to levels: {20.0: 'H1', 14.0: 'H2', 10.0: 'H3'}
+[2025-07-27 00:55:34] ❌ Ignored [] on page 1
+[2025-07-27 00:55:34] ✅ Kept [Welcome to the] as H1 on page 2
+[2025-07-27 00:55:34] ❌ Ignored [] on page 2
+[2025-07-27 00:55:34] ✅ Kept [“Connecting the Dots” Challenge] as H1 on page 2
+[2025-07-27 00:55:34] ✅ Kept [That’s the future we’re building — and we want] as H2 on page 2
+[2025-07-27 00:55:34] ✅ Kept [you] as H2 on page 2
+[2025-07-27 00:55:34] ✅ Kept [to help shape it.] as H2 on page 2
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 2
+[2025-07-27 00:55:34] ❌ Ignored [] on page 2
+[2025-07-27 00:55:34] ❌ Ignored [Round 1:] on page 2
+[2025-07-27 00:55:34] ❌ Ignored [] on page 2
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 2
+[2025-07-27 00:55:34] ❌ Ignored [] on page 2
+[2025-07-27 00:55:34] ❌ Ignored [Round 2:] on page 2
+[2025-07-27 00:55:34] ❌ Ignored [] on page 2
+[2025-07-27 00:55:34] ✅ Kept [Why This Matters] as H2 on page 2
+[2025-07-27 00:55:34] ✅ Kept [Are you in?] as H2 on page 2
+[2025-07-27 00:55:34] ✅ Kept [Round 1A: Understand Your Document] as H1 on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ✅ Kept [Challenge Theme: Connecting the Dots Through Docs] as H2 on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ✅ Kept [Your Mission] as H2 on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ✅ Kept [This outline will be the] as H2 on page 3
+[2025-07-27 00:55:34] ✅ Kept [foundation] as H2 on page 3
+[2025-07-27 00:55:34] ✅ Kept [for the rest of your hackathon journey.] as H2 on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ✅ Kept [Why This Matters] as H2 on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ✅ Kept [What You Need to Build] as H2 on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [You must build a solution that:] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ✅ Kept [Accepts a] as H2 on page 3
+[2025-07-27 00:55:34] ✅ Kept [PDF file] as H2 on page 3
+[2025-07-27 00:55:34] ✅ Kept [(up to 50 pages)] as H2 on page 3
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [Extracts:] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [o] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ✅ Kept [Title] as H2 on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [o] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [Headings:] on page 3
+[2025-07-27 00:55:34] ✅ Kept [H1, H2, H3 (with level and page number)] as H2 on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ✅ Kept [You Will Be Provided] as H2 on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [] on page 4
+[2025-07-27 00:55:34] ✅ Kept [Docker Requirements] as H2 on page 4
+[2025-07-27 00:55:34] ❌ Ignored [] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [CPU architecture:] on page 4
+[2025-07-27 00:55:34] ✅ Kept [amd64 (x86_64)] as H2 on page 4
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [] on page 4
+[2025-07-27 00:55:34] ✅ Kept [No GPU dependencies] as H2 on page 4
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [] on page 4
+[2025-07-27 00:55:34] ✅ Kept [Model size (if used) ≤ 200MB] as H2 on page 4
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [] on page 4
+[2025-07-27 00:55:34] ✅ Kept [Should work offline — no network/internet calls] as H2 on page 4
+[2025-07-27 00:55:34] ✅ Kept [Expected Execution] as H2 on page 4
+[2025-07-27 00:55:34] ❌ Ignored [] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [We will build the docker image using the following command:] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [Your container should:] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [] on page 4
+[2025-07-27 00:55:34] ✅ Kept [output.json] as H2 on page 4
+[2025-07-27 00:55:34] ❌ Ignored [] on page 4
+[2025-07-27 00:55:34] ✅ Kept [Constraints] as H2 on page 4
+[2025-07-27 00:55:34] ❌ Ignored [] on page 4
+[2025-07-27 00:55:34] ✅ Kept [Model size  ≤ 200MB (if used)] as H2 on page 5
+[2025-07-27 00:55:34] ✅ Kept [Runtime] as H2 on page 5
+[2025-07-27 00:55:34] ✅ Kept [Scoring Criteria] as H2 on page 5
+[2025-07-27 00:55:34] ❌ Ignored [] on page 5
+[2025-07-27 00:55:34] ✅ Kept [Submission Checklist] as H2 on page 5
+[2025-07-27 00:55:34] ❌ Ignored [] on page 5
+[2025-07-27 00:55:34] ❌ Ignored [o] on page 5
+[2025-07-27 00:55:34] ❌ Ignored [] on page 5
+[2025-07-27 00:55:34] ✅ Kept [Your approach] as H2 on page 5
+[2025-07-27 00:55:34] ❌ Ignored [o] on page 5
+[2025-07-27 00:55:34] ❌ Ignored [] on page 5
+[2025-07-27 00:55:34] ✅ Kept [Any models or libraries used] as H2 on page 5
+[2025-07-27 00:55:34] ✅ Kept [Pro Tips] as H2 on page 5
+[2025-07-27 00:55:34] ❌ Ignored [] on page 5
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 5
+[2025-07-27 00:55:34] ❌ Ignored [] on page 5
+[2025-07-27 00:55:34] ✅ Kept [Test your solution across both simple and complex PDFs.] as H2 on page 5
+[2025-07-27 00:55:34] ✅ Kept [What Not to Do] as H2 on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ✅ Kept [Do not hardcode headings or file-specific logic] as H2 on page 6
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ✅ Kept [Do not make API or web calls] as H2 on page 6
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ✅ Kept [Do not exceed the runtime/model size constraints] as H2 on page 6
+[2025-07-27 00:55:34] ✅ Kept [[[Public Dataset Folder]]] as H2 on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ✅ Kept [(For Sample Input and Output Files, please refer to the appendix)] as H2 on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [] on page 6
+[2025-07-27 00:55:34] ✅ Kept [Round 1B: Persona-Driven Document Intelligence] as H1 on page 7
+[2025-07-27 00:55:34] ❌ Ignored [Theme:] on page 7
+[2025-07-27 00:55:34] ❌ Ignored [] on page 7
+[2025-07-27 00:55:34] ✅ Kept [“Connect What Matters — For the User Who Matters”] as H2 on page 7
+[2025-07-27 00:55:34] ❌ Ignored [] on page 7
+[2025-07-27 00:55:34] ✅ Kept [Challenge Brief (For Participants)] as H2 on page 7
+[2025-07-27 00:55:34] ❌ Ignored [] on page 7
+[2025-07-27 00:55:34] ✅ Kept [Input Specification] as H2 on page 7
+[2025-07-27 00:55:34] ❌ Ignored [] on page 7
+[2025-07-27 00:55:34] ❌ Ignored [2.] on page 7
+[2025-07-27 00:55:34] ❌ Ignored [] on page 7
+[2025-07-27 00:55:34] ✅ Kept [Document Collection] as H2 on page 7
+[2025-07-27 00:55:34] ✅ Kept [: 3-10 related PDFs] as H2 on page 7
+[2025-07-27 00:55:34] ✅ Kept [Persona Definition] as H2 on page 7
+[2025-07-27 00:55:34] ✅ Kept [: Role] as H2 on page 7
+[2025-07-27 00:55:34] ✅ Kept [description with specific expertise and focus areas] as H2 on page 7
+[2025-07-27 00:55:34] ❌ Ignored [3.] on page 7
+[2025-07-27 00:55:34] ❌ Ignored [] on page 7
+[2025-07-27 00:55:34] ✅ Kept [Job-to-be-Done] as H2 on page 7
+[2025-07-27 00:55:34] ✅ Kept [: Concrete task the persona needs to accomplish] as H2 on page 7
+[2025-07-27 00:55:34] ✅ Kept [Sample Test Cases] as H2 on page 7
+[2025-07-27 00:55:34] ❌ Ignored [] on page 7
+[2025-07-27 00:55:34] ✅ Kept [Test Case 1: Academic Research] as H2 on page 7
+[2025-07-27 00:55:34] ❌ Ignored [] on page 7
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 7
+[2025-07-27 00:55:34] ❌ Ignored [] on page 7
+[2025-07-27 00:55:34] ✅ Kept [Persona] as H2 on page 7
+[2025-07-27 00:55:34] ✅ Kept [: PhD Researcher in Computational Biology] as H2 on page 7
+[2025-07-27 00:55:34] ❌ Ignored [] on page 7
+[2025-07-27 00:55:34] ✅ Kept [Test Case 2: Business Analysis] as H2 on page 8
+[2025-07-27 00:55:34] ❌ Ignored [] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [] on page 8
+[2025-07-27 00:55:34] ✅ Kept [Persona] as H2 on page 8
+[2025-07-27 00:55:34] ✅ Kept [: Investment Analyst] as H2 on page 8
+[2025-07-27 00:55:34] ✅ Kept [Test Case 3: Educational Content] as H2 on page 8
+[2025-07-27 00:55:34] ❌ Ignored [] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [] on page 8
+[2025-07-27 00:55:34] ✅ Kept [Documents] as H2 on page 8
+[2025-07-27 00:55:34] ✅ Kept [: 5 chapters from organic chemistry textbooks] as H2 on page 8
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [] on page 8
+[2025-07-27 00:55:34] ✅ Kept [: Undergraduate Chemistry Student] as H2 on page 8
+[2025-07-27 00:55:34] ✅ Kept [Required Output] as H2 on page 8
+[2025-07-27 00:55:34] ❌ Ignored [] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [] on page 8
+[2025-07-27 00:55:34] ✅ Kept [Output JSON format: Refer] as H2 on page 8
+[2025-07-27 00:55:34] ✅ Kept [challenge1b_output.json] as H2 on page 8
+[2025-07-27 00:55:34] ❌ Ignored [] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [The output should contain:] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [1.] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [Metadata:] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [] on page 8
+[2025-07-27 00:55:34] ✅ Kept [Must run] as H2 on page 8
+[2025-07-27 00:55:34] ✅ Kept [on CPU] as H2 on page 8
+[2025-07-27 00:55:34] ✅ Kept [only] as H2 on page 8
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [] on page 8
+[2025-07-27 00:55:34] ✅ Kept [Model size] as H2 on page 8
+[2025-07-27 00:55:34] ✅ Kept [≤ 1GB] as H2 on page 8
+[2025-07-27 00:55:34] ❌ Ignored [] on page 8
+[2025-07-27 00:55:34] ✅ Kept [Deliverables] as H2 on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ✅ Kept [Dockerfile and execution instructions] as H2 on page 9
+[2025-07-27 00:55:34] ✅ Kept [Sample input/output for testing] as H2 on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [•] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ✅ Kept [Scoring Criteria] as H2 on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ✅ Kept [Criteria] as H2 on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [] on page 10
+[2025-07-27 00:55:34] ❌ Ignored [] on page 10
+[2025-07-27 00:55:34] ❌ Ignored [Appendix:] on page 10
+[2025-07-27 00:55:34] ❌ Ignored [] on page 10
+[2025-07-27 00:55:34] ❌ Ignored [] on page 10
+[2025-07-27 00:55:34] ❌ Ignored [] on page 10
+[2025-07-27 00:55:34] 📘 Title selected from H1 candidates: Welcome to the
+[2025-07-27 00:55:34] ✅ Output saved to output\6874ef2e50a4a_adobe_india_hackathon_challenge_doc.json
+[2025-07-27 00:55:34] 📄 Processing PDF: input\file01.pdf
+[2025-07-27 00:55:34] 🔍 Scanning text across pages to find repeated lines...
+[2025-07-27 00:55:34] 🚫 Found 0 repeated footer/header lines to ignore.
+[2025-07-27 00:55:34] 🔠 Font sizes sorted and mapped to levels: {11.670000076293945: 'H1', 9.744400024414062: 'H2'}
+[2025-07-27 00:55:34] ✅ Kept [Application form for grant of LTC advance] as H1 on page 1
+[2025-07-27 00:55:34] ❌ Ignored [3.] on page 1
+[2025-07-27 00:55:34] ✅ Kept [Date of entering the Central Government] as H2 on page 1
+[2025-07-27 00:55:34] ✅ Kept [Service] as H2 on page 1
+[2025-07-27 00:55:34] ❌ Ignored [7.] on page 1
+[2025-07-27 00:55:34] ✅ Kept [Whether wife / husband is employed and if] as H2 on page 1
+[2025-07-27 00:55:34] ✅ Kept [so whether entitled to LTC] as H2 on page 1
+[2025-07-27 00:55:34] ❌ Ignored [8.] on page 1
+[2025-07-27 00:55:34] ✅ Kept [Whether the concession is to be availed for] as H2 on page 1
+[2025-07-27 00:55:34] ✅ Kept [visiting home town and if so block for which] as H2 on page 1
+[2025-07-27 00:55:34] ✅ Kept [LTC is to be availed.] as H2 on page 1
+[2025-07-27 00:55:34] ❌ Ignored [9.] on page 1
+[2025-07-27 00:55:34] ✅ Kept [(a) If the concession is to visit anywhere in] as H2 on page 1
+[2025-07-27 00:55:34] ✅ Kept [India, the place to be visited.] as H2 on page 1
+[2025-07-27 00:55:34] ✅ Kept [(b) Block for which to be availed.] as H2 on page 1
+[2025-07-27 00:55:34] ✅ Kept [10.] as H2 on page 1
+[2025-07-27 00:55:34] ✅ Kept [headquarters to home town/place of visit by] as H2 on page 1
+[2025-07-27 00:55:34] ✅ Kept [shortest route.] as H2 on page 1
+[2025-07-27 00:55:34] ✅ Kept [11.] as H2 on page 1
+[2025-07-27 00:55:34] ✅ Kept [Persons in respect of whom LTC is proposed to be availed.] as H2 on page 1
+[2025-07-27 00:55:34] ✅ Kept [Date] as H2 on page 1
+[2025-07-27 00:55:34] ✅ Kept [Signature of Government Servant.] as H2 on page 1
+[2025-07-27 00:55:34] 🔎 Top font lines from page 1:
+[2025-07-27 00:55:34]     [size=11.67, y=106.1] Application form for grant of LTC advance
+[2025-07-27 00:55:34] 📐 Merged Title Candidate: Application form for grant of LTC advance
+[2025-07-27 00:55:34] 📘 Title fallback from top merged lines: Application form for grant of LTC advance
+[2025-07-27 00:55:34] ✅ Output saved to output\file01.json
+[2025-07-27 00:55:34] 📄 Processing PDF: input\file02.pdf
+[2025-07-27 00:55:34] 🔍 Scanning text across pages to find repeated lines...
+[2025-07-27 00:55:34] 🚫 Found 3 repeated footer/header lines to ignore.
+[2025-07-27 00:55:34] 🔠 Font sizes sorted and mapped to levels: {24.0: 'H1', 18.0: 'H2', 15.960000038146973: 'H3'}
+[2025-07-27 00:55:34] ✅ Kept [Overview] as H1 on page 1
+[2025-07-27 00:55:34] ✅ Kept [Foundation Level Extensions] as H1 on page 1
+[2025-07-27 00:55:34] ✅ Kept [International Software Testing Qualifications Board] as H2 on page 1
+[2025-07-27 00:55:34] ❌ Ignored [Board] on page 2
+[2025-07-27 00:55:34] ❌ Ignored [Copyright © International Software Testing Qualifications Board (hereinafter called ISTQB®).] on page 2
+[2025-07-27 00:55:34] ❌ Ignored [© International Software Testing Qualifications Board] on page 2
+[2025-07-27 00:55:34] ❌ Ignored [Qualifications Board] on page 3
+[2025-07-27 00:55:34] ✅ Kept [Revision History] as H3 on page 3
+[2025-07-27 00:55:34] ❌ Ignored [© International Software Testing Qualifications Board] on page 3
+[2025-07-27 00:55:34] ❌ Ignored [..........................................................................................................................................] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [........................................................................................................................................] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [............................................................................] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [...............................................................] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [.........................................] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [..........................................................................................................................................] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [Board] on page 4
+[2025-07-27 00:55:34] ✅ Kept [Table of Contents] as H3 on page 4
+[2025-07-27 00:55:34] ❌ Ignored [© International Software Testing Qualifications Board] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [Board] on page 5
+[2025-07-27 00:55:34] ✅ Kept [Acknowledgements] as H3 on page 5
+[2025-07-27 00:55:34] ❌ Ignored [The Agile Extension team thanks the review team and the National Boards for their suggestions and input.] on page 5
+[2025-07-27 00:55:34] ❌ Ignored [© International Software Testing Qualifications Board] on page 5
+[2025-07-27 00:55:34] ❌ Ignored [Qualifications Board] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [1.] on page 6
+[2025-07-27 00:55:34] ✅ Kept [Introduction to the Foundation Level Extensions] as H3 on page 6
+[2025-07-27 00:55:34] ❌ Ignored [The following Foundation Level Extension syllabus has been released:] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [© International Software Testing Qualifications Board] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [Qualifications Board] on page 7
+[2025-07-27 00:55:34] ❌ Ignored [2.] on page 7
+[2025-07-27 00:55:34] ✅ Kept [Introduction to Foundation Level Agile Tester Extension] as H3 on page 7
+[2025-07-27 00:55:34] ❌ Ignored [] on page 7
+[2025-07-27 00:55:34] ❌ Ignored [Agile Tester qualification is aimed at four main groups of professionals:] on page 7
+[2025-07-27 00:55:34] ❌ Ignored [© International Software Testing Qualifications Board] on page 7
+[2025-07-27 00:55:34] ❌ Ignored [Qualifications Board] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [The syllabi must be taught in the following minimum number of days:] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [© International Software Testing Qualifications Board] on page 8
+[2025-07-27 00:55:34] ❌ Ignored [Qualifications Board] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [© International Software Testing Qualifications Board] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [Qualifications Board] on page 10
+[2025-07-27 00:55:34] ❌ Ignored [] on page 10
+[2025-07-27 00:55:34] ❌ Ignored [© International Software Testing Qualifications Board] on page 10
+[2025-07-27 00:55:34] ❌ Ignored [Board] on page 11
+[2025-07-27 00:55:34] ❌ Ignored [© International Software Testing Qualifications Board] on page 11
+[2025-07-27 00:55:34] ❌ Ignored [Qualifications Board] on page 12
+[2025-07-27 00:55:34] ❌ Ignored [4.] on page 12
+[2025-07-27 00:55:34] ✅ Kept [References] as H3 on page 12
+[2025-07-27 00:55:34] ❌ Ignored [The following registered trademarks and service marks are used in this document:] on page 12
+[2025-07-27 00:55:34] ❌ Ignored [®] on page 12
+[2025-07-27 00:55:34] ❌ Ignored [© International Software Testing Qualifications Board] on page 12
+[2025-07-27 00:55:34] 🔎 Top font lines from page 1:
+[2025-07-27 00:55:34]     [size=24.00, y=189.6] Overview
+[2025-07-27 00:55:34]     [size=24.00, y=244.8] Foundation Level Extensions
+[2025-07-27 00:55:34] 📐 Merged Title Candidate: Overview Foundation Level Extensions
+[2025-07-27 00:55:34] 📘 Title fallback from top merged lines: Overview Foundation Level Extensions
+[2025-07-27 00:55:34] ✅ Output saved to output\file02.json
+[2025-07-27 00:55:34] 📄 Processing PDF: input\file03.pdf
+[2025-07-27 00:55:34] 🔍 Scanning text across pages to find repeated lines...
+[2025-07-27 00:55:34] 🚫 Found 0 repeated footer/header lines to ignore.
+[2025-07-27 00:55:34] 🔠 Font sizes sorted and mapped to levels: {20.040000915527344: 'H1', 12.0: 'H2', 11.039999961853027: 'H3'}
+[2025-07-27 00:55:34] ❌ Ignored [March 21, 2003] on page 1
+[2025-07-27 00:55:34] ✅ Kept [Ontario’s Digital Library] as H1 on page 2
+[2025-07-27 00:55:34] ✅ Kept [Summary] as H2 on page 2
+[2025-07-27 00:55:34] ❌ Ignored [Timeline:] on page 2
+[2025-07-27 00:55:34] ✅ Kept [Background] as H2 on page 3
+[2025-07-27 00:55:34] ❌ Ignored [The principles which will define and guide the ODL are:] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [Equitable access for all Ontarians:] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [Shared decision-making and accountability:] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [Shared governance structure:] on page 4
+[2025-07-27 00:55:34] ✅ Kept [We will share decision-making in order to enable the people we serve.] as H3 on page 4
+[2025-07-27 00:55:34] ✅ Kept [We will work based on an underlying assumption of trust and synergy.] as H3 on page 4
+[2025-07-27 00:55:34] ❌ Ignored [Shared funding:] on page 4
+[2025-07-27 00:55:34] ❌ Ignored [Local points of entry:] on page 5
+[2025-07-27 00:55:34] ❌ Ignored [Services envisioned for the ODL’s include:] on page 5
+[2025-07-27 00:55:34] ❌ Ignored [Access:] on page 5
+[2025-07-27 00:55:34] ❌ Ignored [Guidance and Advice:] on page 5
+[2025-07-27 00:55:34] ❌ Ignored [Provincial Purchasing & Licensing:] on page 5
+[2025-07-27 00:55:34] ✅ Kept [of electronic content on a consortia basis for all member libraries] as H3 on page 5
+[2025-07-27 00:55:34] ❌ Ignored [Technological Support:] on page 5
+[2025-07-27 00:55:34] ✅ Kept [What could the ODL really mean?] as H3 on page 5
+[2025-07-27 00:55:34] ❌ Ignored [For each Ontario citizen it could mean:] on page 5
+[2025-07-27 00:55:34] ❌ Ignored [For each Ontario student it could mean:] on page 5
+[2025-07-27 00:55:34] ❌ Ignored [For each Ontario library it could mean:] on page 6
+[2025-07-27 00:55:34] ❌ Ignored [For the Ontario government it could mean:] on page 6
+[2025-07-27 00:55:34] ✅ Kept [The Business Plan to be Developed] as H2 on page 6
+[2025-07-27 00:55:34] ❌ Ignored [Specifically, the business plan must include:] on page 6
+[2025-07-27 00:55:34] ✅ Kept [Milestones] as H2 on page 7
+[2025-07-27 00:55:34] ✅ Kept [1) A preliminary report will be issued during June 2003.] as H3 on page 7
+[2025-07-27 00:55:34] ✅ Kept [Approach and Specific Proposal Requirements] as H2 on page 7
+[2025-07-27 00:55:34] ❌ Ignored [The proposal should include the following information:] on page 7
+[2025-07-27 00:55:34] ✅ Kept [Evaluation and Awarding of Contract] as H2 on page 8
+[2025-07-27 00:55:34] ❌ Ignored [Specifically, proposals will be evaluated proposals according to the following criteria:] on page 8
+[2025-07-27 00:55:34] ✅ Kept [Appendix A:  ODL Envisioned Phases & Funding] as H2 on page 9
+[2025-07-27 00:55:34] ❌ Ignored [Result:] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [Result:] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [Result:] on page 9
+[2025-07-27 00:55:34] ❌ Ignored [1. that ODL expenditures will increase by 50% over a 10 year period] on page 10
+[2025-07-27 00:55:34] ❌ Ignored [2. that government funding will decrease from 70% to 45% during that 10 year period] on page 10
+[2025-07-27 00:55:34] ❌ Ignored [3.1 Schools:] on page 11
+[2025-07-27 00:55:34] ❌ Ignored [)] on page 12
+[2025-07-27 00:55:34] ❌ Ignored [Role of the Chair:] on page 12
+[2025-07-27 00:55:34] 📘 Title selected from H1 candidates: Ontario’s Digital Library
+[2025-07-27 00:55:34] ✅ Output saved to output\file03.json
+[2025-07-27 00:55:34] 📄 Processing PDF: input\file04.pdf
+[2025-07-27 00:55:34] 🔍 Scanning text across pages to find repeated lines...
+[2025-07-27 00:55:34] 🚫 Found 0 repeated footer/header lines to ignore.
+[2025-07-27 00:55:34] 🔠 Font sizes sorted and mapped to levels: {28.00721549987793: 'H1', 15.310199737548828: 'H2', 15.308159828186035: 'H3'}
+[2025-07-27 00:55:34] ✅ Kept [Parsippany -Troy Hills STEM Pathways] as H1 on page 1
+[2025-07-27 00:55:34] ✅ Kept [PATHWAY OPTIONS] as H3 on page 1
+[2025-07-27 00:55:34] ✅ Kept [REGULAR PATHWAY] as H2 on page 1
+[2025-07-27 00:55:34] ❌ Ignored [Goals:] on page 1
+[2025-07-27 00:55:34] ❌ Ignored [] on page 1
+[2025-07-27 00:55:34] 🔎 Top font lines from page 1:
+[2025-07-27 00:55:34]     [size=28.01, y=37.4] Parsippany -Troy Hills STEM Pathways
+[2025-07-27 00:55:34] 📐 Merged Title Candidate: Parsippany -Troy Hills STEM Pathways
+[2025-07-27 00:55:34] 📘 Title fallback from top merged lines: Parsippany -Troy Hills STEM Pathways
+[2025-07-27 00:55:34] ✅ Output saved to output\file04.json
+[2025-07-27 00:55:34] 📄 Processing PDF: input\file05.pdf
+[2025-07-27 00:55:34] 🔍 Scanning text across pages to find repeated lines...
+[2025-07-27 00:55:35] 🚫 Found 0 repeated footer/header lines to ignore.
+[2025-07-27 00:55:35] 🔠 Font sizes sorted and mapped to levels: {26.66584587097168: 'H1', 18.025842666625977: 'H2', 12.401399612426758: 'H3'}
+[2025-07-27 00:55:35] ❌ Ignored [ADDRESS:] on page 1
+[2025-07-27 00:55:35] ❌ Ignored [RSVP:] on page 1
+[2025-07-27 00:55:35] ❌ Ignored [----------------] on page 1
+[2025-07-27 00:55:35] ✅ Kept [WWW.TOPJUMP.COM] as H2 on page 1
+[2025-07-27 00:55:35] 🔎 Top font lines from page 1:
+[2025-07-27 00:55:35]     [size=7.20, y=555.7] CLOSED TOED SHOES
+[2025-07-27 00:55:35]     [size=7.22, y=555.7] ARE
+[2025-07-27 00:55:35]     [size=7.20, y=555.7] REQUIRED FOR CLIMBING
+[2025-07-27 00:55:35] 📐 Merged Title Candidate: CLOSED TOED SHOES ARE REQUIRED FOR CLIMBING
+[2025-07-27 00:55:35] 📘 Title fallback from top merged lines: CLOSED TOED SHOES ARE REQUIRED FOR CLIMBING
+[2025-07-27 00:55:35] ✅ Output saved to output\file05.json
+[2025-07-27 00:55:35] 📄 Processing PDF: input\South of France - Cities.pdf
+[2025-07-27 00:55:35] 🔍 Scanning text across pages to find repeated lines...
+[2025-07-27 00:55:35] 🚫 Found 3 repeated footer/header lines to ignore.
+[2025-07-27 00:55:35] 🔠 Font sizes sorted and mapped to levels: {12.0: 'H1'}
+[2025-07-27 00:55:35] ✅ Kept [Comprehensive Guide to Major Cities in the South of France] as H1 on page 1
+[2025-07-27 00:55:35] ✅ Kept [Introduction] as H1 on page 1
+[2025-07-27 00:55:35] ✅ Kept [Overview of the Region] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Travel Tips] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Marseille: The Oldest City in France] as H1 on page 3
+[2025-07-27 00:55:35] ❌ Ignored [History] on page 3
+[2025-07-27 00:55:35] ❌ Ignored [Key Attractions] on page 3
+[2025-07-27 00:55:35] ✅ Kept [Local Experiences] as H1 on page 3
+[2025-07-27 00:55:35] ❌ Ignored [Cultural Highlights] on page 3
+[2025-07-27 00:55:35] ✅ Kept [Nice: The Jewel of the French Riviera] as H1 on page 5
+[2025-07-27 00:55:35] ❌ Ignored [History] on page 5
+[2025-07-27 00:55:35] ❌ Ignored [Key Attractions] on page 5
+[2025-07-27 00:55:35] ✅ Kept [Hidden Gems] as H1 on page 5
+[2025-07-27 00:55:35] ❌ Ignored [Cultural Highlights] on page 5
+[2025-07-27 00:55:35] ✅ Kept [Avignon: The City of Popes] as H1 on page 7
+[2025-07-27 00:55:35] ❌ Ignored [History] on page 7
+[2025-07-27 00:55:35] ❌ Ignored [Key Attractions] on page 7
+[2025-07-27 00:55:35] ✅ Kept [Cultural Activities] as H1 on page 7
+[2025-07-27 00:55:35] ❌ Ignored [Cultural Highlights] on page 7
+[2025-07-27 00:55:35] ✅ Kept [Aix-en-Provence: A City of Art and Culture] as H1 on page 8
+[2025-07-27 00:55:35] ❌ Ignored [History] on page 8
+[2025-07-27 00:55:35] ❌ Ignored [Key Attractions] on page 8
+[2025-07-27 00:55:35] ✅ Kept [Artistic Heritage] as H1 on page 8
+[2025-07-27 00:55:35] ❌ Ignored [Cultural Highlights] on page 8
+[2025-07-27 00:55:35] ✅ Kept [Toulouse: The Pink City] as H1 on page 9
+[2025-07-27 00:55:35] ❌ Ignored [History] on page 9
+[2025-07-27 00:55:35] ❌ Ignored [Key Attractions] on page 9
+[2025-07-27 00:55:35] ✅ Kept [Aerospace Industry] as H1 on page 9
+[2025-07-27 00:55:35] ❌ Ignored [Cultural Highlights] on page 9
+[2025-07-27 00:55:35] ✅ Kept [Montpellier: A University City with Medieval Charm] as H1 on page 10
+[2025-07-27 00:55:35] ❌ Ignored [History] on page 10
+[2025-07-27 00:55:35] ❌ Ignored [Key Attractions] on page 10
+[2025-07-27 00:55:35] ✅ Kept [Student Life] as H1 on page 10
+[2025-07-27 00:55:35] ❌ Ignored [Cultural Highlights] on page 10
+[2025-07-27 00:55:35] ✅ Kept [Perpignan: A Blend of French and Catalan Cultures] as H1 on page 11
+[2025-07-27 00:55:35] ❌ Ignored [History] on page 11
+[2025-07-27 00:55:35] ❌ Ignored [Key Attractions] on page 11
+[2025-07-27 00:55:35] ✅ Kept [Cultural Fusion] as H1 on page 11
+[2025-07-27 00:55:35] ❌ Ignored [Cultural Highlights] on page 11
+[2025-07-27 00:55:35] ✅ Kept [Arles: A Roman Treasure] as H1 on page 12
+[2025-07-27 00:55:35] ❌ Ignored [History] on page 12
+[2025-07-27 00:55:35] ❌ Ignored [Key Attractions] on page 12
+[2025-07-27 00:55:35] ✅ Kept [Artistic Influence] as H1 on page 12
+[2025-07-27 00:55:35] ❌ Ignored [Cultural Highlights] on page 12
+[2025-07-27 00:55:35] ✅ Kept [Carcassonne: A Medieval Fortress] as H1 on page 13
+[2025-07-27 00:55:35] ❌ Ignored [History] on page 13
+[2025-07-27 00:55:35] ❌ Ignored [Key Attractions] on page 13
+[2025-07-27 00:55:35] ✅ Kept [Medieval Life] as H1 on page 13
+[2025-07-27 00:55:35] ❌ Ignored [Cultural Highlights] on page 13
+[2025-07-27 00:55:35] ✅ Kept [Conclusion] as H1 on page 14
+[2025-07-27 00:55:35] ❌ Ignored [] on page 14
+[2025-07-27 00:55:35] 🔎 Top font lines from page 1:
+[2025-07-27 00:55:35]     [size=12.00, y=72.0] Comprehensive Guide to Major Cities in the South of France
+[2025-07-27 00:55:35]     [size=12.00, y=97.2] Introduction
+[2025-07-27 00:55:35] 📐 Merged Title Candidate: Comprehensive Guide to Major Cities in the South of France Introduction
+[2025-07-27 00:55:35] 📘 Title fallback from top merged lines: Comprehensive Guide to Major Cities in the South of France Introduction
+[2025-07-27 00:55:35] ✅ Output saved to output\South of France - Cities.json
+[2025-07-27 00:55:35] 📄 Processing PDF: input\South of France - Cuisine.pdf
+[2025-07-27 00:55:35] 🔍 Scanning text across pages to find repeated lines...
+[2025-07-27 00:55:35] 🚫 Found 0 repeated footer/header lines to ignore.
+[2025-07-27 00:55:35] 🔠 Font sizes sorted and mapped to levels: {12.0: 'H1'}
+[2025-07-27 00:55:35] ✅ Kept [A Culinary Journey Through the South of France] as H1 on page 1
+[2025-07-27 00:55:35] ✅ Kept [Introduction] as H1 on page 1
+[2025-07-27 00:55:35] ✅ Kept [Types of Food] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Famous Dishes] as H1 on page 3
+[2025-07-27 00:55:35] ❌ Ignored [The South of France is home to many iconic dishes that you must try during your visit:] on page 3
+[2025-07-27 00:55:35] ✅ Kept [Must-Visit Restaurants] as H1 on page 4
+[2025-07-27 00:55:35] ✅ Kept [Wine Regions and Types of Wines] as H1 on page 5
+[2025-07-27 00:55:35] ✅ Kept [Culinary Experiences] as H1 on page 6
+[2025-07-27 00:55:35] ✅ Kept [Conclusion] as H1 on page 8
+[2025-07-27 00:55:35] ❌ Ignored [] on page 8
+[2025-07-27 00:55:35] 🔎 Top font lines from page 1:
+[2025-07-27 00:55:35]     [size=12.00, y=72.0] A Culinary Journey Through the South of France
+[2025-07-27 00:55:35]     [size=12.00, y=97.2] Introduction
+[2025-07-27 00:55:35] 📐 Merged Title Candidate: A Culinary Journey Through the South of France Introduction
+[2025-07-27 00:55:35] 📘 Title fallback from top merged lines: A Culinary Journey Through the South of France Introduction
+[2025-07-27 00:55:35] ✅ Output saved to output\South of France - Cuisine.json
+[2025-07-27 00:55:35] 📄 Processing PDF: input\South of France - History.pdf
+[2025-07-27 00:55:35] 🔍 Scanning text across pages to find repeated lines...
+[2025-07-27 00:55:35] 🚫 Found 0 repeated footer/header lines to ignore.
+[2025-07-27 00:55:35] 🔠 Font sizes sorted and mapped to levels: {12.0: 'H1'}
+[2025-07-27 00:55:35] ✅ Kept [A Historical Journey Through the South of France] as H1 on page 1
+[2025-07-27 00:55:35] ✅ Kept [Introduction] as H1 on page 1
+[2025-07-27 00:55:35] ✅ Kept [Marseille: The Oldest City in France] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Key Historical Sites in Marseille] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Nice: The Jewel of the French Riviera] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Key Historical Sites in Nice] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Avignon: The City of Popes] as H1 on page 4
+[2025-07-27 00:55:35] ✅ Kept [Key Historical Sites in Avignon] as H1 on page 4
+[2025-07-27 00:55:35] ✅ Kept [Nîmes: The Rome of France] as H1 on page 5
+[2025-07-27 00:55:35] ✅ Kept [Key Historical Sites in Nîmes] as H1 on page 5
+[2025-07-27 00:55:35] ✅ Kept [Carcassonne: A Medieval Fortress] as H1 on page 6
+[2025-07-27 00:55:35] ✅ Kept [Key Historical Sites in Carcassonne] as H1 on page 6
+[2025-07-27 00:55:35] ✅ Kept [Toulouse: The Pink City] as H1 on page 7
+[2025-07-27 00:55:35] ✅ Kept [Key Historical Sites in Toulouse] as H1 on page 7
+[2025-07-27 00:55:35] ✅ Kept [Arles: A Roman Treasure] as H1 on page 8
+[2025-07-27 00:55:35] ✅ Kept [Key Historical Sites in Arles] as H1 on page 8
+[2025-07-27 00:55:35] ✅ Kept [Aix-en-Provence: A City of Art and Culture] as H1 on page 9
+[2025-07-27 00:55:35] ✅ Kept [Key Historical Sites in Aix-en-Provence] as H1 on page 9
+[2025-07-27 00:55:35] ✅ Kept [Montpellier: A University City with Medieval Charm] as H1 on page 10
+[2025-07-27 00:55:35] ✅ Kept [Key Historical Sites in Montpellier] as H1 on page 10
+[2025-07-27 00:55:35] ✅ Kept [Perpignan: A Blend of French and Catalan Cultures] as H1 on page 11
+[2025-07-27 00:55:35] ✅ Kept [Key Historical Sites in Perpignan] as H1 on page 11
+[2025-07-27 00:55:35] ✅ Kept [Conclusion] as H1 on page 12
+[2025-07-27 00:55:35] ❌ Ignored [] on page 12
+[2025-07-27 00:55:35] 🔎 Top font lines from page 1:
+[2025-07-27 00:55:35]     [size=12.00, y=72.0] A Historical Journey Through the South of France
+[2025-07-27 00:55:35]     [size=12.00, y=97.2] Introduction
+[2025-07-27 00:55:35] 📐 Merged Title Candidate: A Historical Journey Through the South of France Introduction
+[2025-07-27 00:55:35] 📘 Title fallback from top merged lines: A Historical Journey Through the South of France Introduction
+[2025-07-27 00:55:35] ✅ Output saved to output\South of France - History.json
+[2025-07-27 00:55:35] 📄 Processing PDF: input\South of France - Restaurants and Hotels.pdf
+[2025-07-27 00:55:35] 🔍 Scanning text across pages to find repeated lines...
+[2025-07-27 00:55:35] 🚫 Found 0 repeated footer/header lines to ignore.
+[2025-07-27 00:55:35] 🔠 Font sizes sorted and mapped to levels: {12.0: 'H1'}
+[2025-07-27 00:55:35] ✅ Kept [Comprehensive Guide to Restaurants and Hotels in the South of France] as H1 on page 1
+[2025-07-27 00:55:35] ✅ Kept [Introduction] as H1 on page 1
+[2025-07-27 00:55:35] ✅ Kept [Restaurants] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Budget-Friendly Restaurants] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Family-Friendly Restaurants] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Upscale Restaurants] as H1 on page 4
+[2025-07-27 00:55:35] ✅ Kept [Luxurious Restaurants] as H1 on page 6
+[2025-07-27 00:55:35] ✅ Kept [Hotels] as H1 on page 8
+[2025-07-27 00:55:35] ✅ Kept [Budget-Friendly Hotels] as H1 on page 8
+[2025-07-27 00:55:35] ✅ Kept [Family-Friendly Hotels] as H1 on page 9
+[2025-07-27 00:55:35] ✅ Kept [Upscale Hotels] as H1 on page 11
+[2025-07-27 00:55:35] ✅ Kept [Luxurious Hotels] as H1 on page 12
+[2025-07-27 00:55:35] ✅ Kept [Conclusion] as H1 on page 14
+[2025-07-27 00:55:35] ❌ Ignored [] on page 14
+[2025-07-27 00:55:35] 🔎 Top font lines from page 1:
+[2025-07-27 00:55:35]     [size=12.00, y=72.0] Comprehensive Guide to Restaurants and Hotels in the South of France
+[2025-07-27 00:55:35]     [size=12.00, y=97.2] Introduction
+[2025-07-27 00:55:35] 📐 Merged Title Candidate: Comprehensive Guide to Restaurants and Hotels in the South of France Introduction
+[2025-07-27 00:55:35] 📘 Title fallback from top merged lines: Comprehensive Guide to Restaurants and Hotels in the South of France Introduction
+[2025-07-27 00:55:35] ✅ Output saved to output\South of France - Restaurants and Hotels.json
+[2025-07-27 00:55:35] 📄 Processing PDF: input\South of France - Things to Do.pdf
+[2025-07-27 00:55:35] 🔍 Scanning text across pages to find repeated lines...
+[2025-07-27 00:55:35] 🚫 Found 0 repeated footer/header lines to ignore.
+[2025-07-27 00:55:35] 🔠 Font sizes sorted and mapped to levels: {12.0: 'H1'}
+[2025-07-27 00:55:35] ❌ Ignored [Ultimate Guide to Activities and Things to Do in the South of France] on page 1
+[2025-07-27 00:55:35] ✅ Kept [Introduction] as H1 on page 1
+[2025-07-27 00:55:35] ✅ Kept [Coastal Adventures] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Beach Hopping] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Water Sports] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Cultural Experiences] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Art and Museums] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Historical Sites] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Outdoor Activities] as H1 on page 4
+[2025-07-27 00:55:35] ✅ Kept [Hiking and Biking] as H1 on page 4
+[2025-07-27 00:55:35] ✅ Kept [Water Activities] as H1 on page 4
+[2025-07-27 00:55:35] ✅ Kept [Culinary Delights] as H1 on page 5
+[2025-07-27 00:55:35] ✅ Kept [Wine Tasting] as H1 on page 5
+[2025-07-27 00:55:35] ✅ Kept [Cooking Classes] as H1 on page 5
+[2025-07-27 00:55:35] ✅ Kept [Festivals and Events] as H1 on page 6
+[2025-07-27 00:55:35] ✅ Kept [Relaxation and Wellness] as H1 on page 7
+[2025-07-27 00:55:35] ❌ Ignored [For those seeking relaxation and rejuvenation, the South of France oﬀers plenty of options:] on page 7
+[2025-07-27 00:55:35] ✅ Kept [Spa and Wellness Retreats] as H1 on page 7
+[2025-07-27 00:55:35] ✅ Kept [Yoga and Meditation Retreats] as H1 on page 7
+[2025-07-27 00:55:35] ✅ Kept [Shopping and Markets] as H1 on page 8
+[2025-07-27 00:55:35] ✅ Kept [Local Markets] as H1 on page 8
+[2025-07-27 00:55:35] ✅ Kept [Boutique Shopping] as H1 on page 8
+[2025-07-27 00:55:35] ✅ Kept [Family-Friendly Activities] as H1 on page 9
+[2025-07-27 00:55:35] ❌ Ignored [The South of France oﬀers a variety of activities that are perfect for families with children:] on page 9
+[2025-07-27 00:55:35] ✅ Kept [Theme Parks and Attractions] as H1 on page 9
+[2025-07-27 00:55:35] ✅ Kept [Outdoor Adventures] as H1 on page 9
+[2025-07-27 00:55:35] ✅ Kept [Educational Experiences] as H1 on page 9
+[2025-07-27 00:55:35] ✅ Kept [Nightlife and Entertainment] as H1 on page 11
+[2025-07-27 00:55:35] ✅ Kept [Bars and Lounges] as H1 on page 11
+[2025-07-27 00:55:35] ✅ Kept [Nightclubs] as H1 on page 11
+[2025-07-27 00:55:35] ✅ Kept [Conclusion] as H1 on page 13
+[2025-07-27 00:55:35] ❌ Ignored [] on page 13
+[2025-07-27 00:55:35] 🔎 Top font lines from page 1:
+[2025-07-27 00:55:35]     [size=12.00, y=97.2] Introduction
+[2025-07-27 00:55:35] 📐 Merged Title Candidate: Introduction
+[2025-07-27 00:55:35] 📘 Title fallback to filename: South of France   Things to Do
+[2025-07-27 00:55:35] ✅ Output saved to output\South of France - Things to Do.json
+[2025-07-27 00:55:35] 📄 Processing PDF: input\South of France - Tips and Tricks.pdf
+[2025-07-27 00:55:35] 🔍 Scanning text across pages to find repeated lines...
+[2025-07-27 00:55:35] 🚫 Found 0 repeated footer/header lines to ignore.
+[2025-07-27 00:55:35] 🔠 Font sizes sorted and mapped to levels: {12.0: 'H1'}
+[2025-07-27 00:55:35] ✅ Kept [Introduction] as H1 on page 1
+[2025-07-27 00:55:35] ✅ Kept [General Packing Tips and Tricks] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Packing for All Seasons] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Spring (March to May)] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Summer (June to August)] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Autumn (September to November)] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Winter (December to February)] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Packing for Adults] as H1 on page 4
+[2025-07-27 00:55:35] ❌ Ignored [] on page 4
+[2025-07-27 00:55:35] ✅ Kept [Clothing] as H1 on page 4
+[2025-07-27 00:55:35] ✅ Kept [Toiletries] as H1 on page 4
+[2025-07-27 00:55:35] ✅ Kept [Gadgets and Accessories] as H1 on page 4
+[2025-07-27 00:55:35] ✅ Kept [Packing for Kids] as H1 on page 6
+[2025-07-27 00:55:35] ✅ Kept [Clothing] as H1 on page 6
+[2025-07-27 00:55:35] ✅ Kept [Essentials] as H1 on page 6
+[2025-07-27 00:55:35] ✅ Kept [Toiletries] as H1 on page 6
+[2025-07-27 00:55:35] ✅ Kept [Safety and Comfort] as H1 on page 6
+[2025-07-27 00:55:35] ❌ Ignored [] on page 7
+[2025-07-27 00:55:35] ✅ Kept [Special Considerations] as H1 on page 7
+[2025-07-27 00:55:35] ✅ Kept [Beach Trips] as H1 on page 7
+[2025-07-27 00:55:35] ✅ Kept [Hiking and Outdoor Activities] as H1 on page 7
+[2025-07-27 00:55:35] ✅ Kept [City Exploration] as H1 on page 7
+[2025-07-27 00:55:35] ✅ Kept [Wine Tours] as H1 on page 7
+[2025-07-27 00:55:35] ❌ Ignored [] on page 8
+[2025-07-27 00:55:35] ✅ Kept [Tips and Tricks for Packing] as H1 on page 8
+[2025-07-27 00:55:35] ✅ Kept [Conclusion] as H1 on page 9
+[2025-07-27 00:55:35] ❌ Ignored [] on page 9
+[2025-07-27 00:55:35] 🔎 Top font lines from page 1:
+[2025-07-27 00:55:35]     [size=12.00, y=114.3] Introduction
+[2025-07-27 00:55:35] 📐 Merged Title Candidate: Introduction
+[2025-07-27 00:55:35] 📘 Title fallback to filename: South of France   Tips and Tricks
+[2025-07-27 00:55:35] ✅ Output saved to output\South of France - Tips and Tricks.json
+[2025-07-27 00:55:35] 📄 Processing PDF: input\South of France - Traditions and Culture.pdf
+[2025-07-27 00:55:35] 🔍 Scanning text across pages to find repeated lines...
+[2025-07-27 00:55:35] 🚫 Found 0 repeated footer/header lines to ignore.
+[2025-07-27 00:55:35] 🔠 Font sizes sorted and mapped to levels: {12.0: 'H1'}
+[2025-07-27 00:55:35] ✅ Kept [A Comprehensive Guide to Traditions and Culture in the South of France] as H1 on page 1
+[2025-07-27 00:55:35] ✅ Kept [Introduction] as H1 on page 1
+[2025-07-27 00:55:35] ✅ Kept [Language and Literature] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Provençal Language] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Literature and Poetry] as H1 on page 2
+[2025-07-27 00:55:35] ❌ Ignored [] on page 2
+[2025-07-27 00:55:35] ✅ Kept [Festivals and Celebrations] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Carnival of Nice] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Fête de la Musique] as H1 on page 2
+[2025-07-27 00:55:35] ✅ Kept [Transhumance Festivals] as H1 on page 2
+[2025-07-27 00:55:35] ❌ Ignored [] on page 3
+[2025-07-27 00:55:35] ✅ Kept [Traditional Sports and Games] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Pétanque] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Course Camarguaise] as H1 on page 3
+[2025-07-27 00:55:35] ❌ Ignored [] on page 3
+[2025-07-27 00:55:35] ✅ Kept [Culinary Traditions] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Provençal Cuisine] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Wine and Vineyards] as H1 on page 3
+[2025-07-27 00:55:35] ✅ Kept [Truﬄe Hunting] as H1 on page 3
+[2025-07-27 00:55:35] ❌ Ignored [] on page 4
+[2025-07-27 00:55:35] ✅ Kept [Arts and Crafts] as H1 on page 4
+[2025-07-27 00:55:35] ✅ Kept [Pottery and Ceramics] as H1 on page 4
+[2025-07-27 00:55:35] ✅ Kept [Lavender Products] as H1 on page 4
+[2025-07-27 00:55:35] ❌ Ignored [] on page 4
+[2025-07-27 00:55:35] ✅ Kept [Religious and Spiritual Traditions] as H1 on page 4
+[2025-07-27 00:55:35] ✅ Kept [Pilgrimages] as H1 on page 4
+[2025-07-27 00:55:35] ✅ Kept [Christmas Traditions] as H1 on page 4
+[2025-07-27 00:55:35] ❌ Ignored [] on page 5
+[2025-07-27 00:55:35] ✅ Kept [Music and Dance] as H1 on page 5
+[2025-07-27 00:55:35] ✅ Kept [Provençal Folk Music] as H1 on page 5
+[2025-07-27 00:55:35] ✅ Kept [Jazz Manouche] as H1 on page 5
+[2025-07-27 00:55:35] ❌ Ignored [] on page 5
+[2025-07-27 00:55:35] ❌ Ignored [] on page 5
+[2025-07-27 00:55:35] ✅ Kept [Conclusion] as H1 on page 5
+[2025-07-27 00:55:35] ❌ Ignored [] on page 5
+[2025-07-27 00:55:35] 🔎 Top font lines from page 1:
+[2025-07-27 00:55:35]     [size=12.00, y=72.0] A Comprehensive Guide to Traditions and Culture in the South of France
+[2025-07-27 00:55:35]     [size=12.00, y=97.2] Introduction
+[2025-07-27 00:55:35] 📐 Merged Title Candidate: A Comprehensive Guide to Traditions and Culture in the South of France Introduction
+[2025-07-27 00:55:35] 📘 Title fallback from top merged lines: A Comprehensive Guide to Traditions and Culture in the South of France Introduction
+[2025-07-27 00:55:35] ✅ Output saved to output\South of France - Traditions and Culture.json
+[2025-07-27 00:55:35] 🎉 All PDFs processed successfully!
